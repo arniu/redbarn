@@ -1,0 +1,9 @@
+[package]
+name = "redbarn"
+version = "0.0.1"
+description = "A persistent key-value store"
+repository = "https://github.com/arniu/redbarn"
+homepage = "https://github.com/arniu/redbarn"
+license = "MIT OR Apache-2.0"
+authors = ["Arniu Tseng"]
+edition = "2018"
